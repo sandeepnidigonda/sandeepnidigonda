@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science and cybersecurity B tech Graduate<br>I’m currently working on DevOps and cloud Technolgies for Seeking new opportunities to ontribute my work<br>Enthusiastic cloud and DevOps engineer<br>I’m looking to collaborate on DevOps and cloud  Competitions<br>Ask me about anything regarding DevOps and Cloud Technologies<br>How to reach me sandeepnidigonda994@gmail.com<br>Know about my experiences Linkedin
+I am a Computer Science and cybersecurity B tech Graduate<br>I’m currently working on DevOps and cloud Technolgies for Seeking new opportunities to ontribute my work<br>Enthusiastic cloud and DevOps engineer<br>I’m looking to collaborate on DevOps and cloud  Competitions<br>Ask me about anything regarding DevOps and Cloud Technologies<br>How to reach me sandeepnidigonda994@gmail.com<br>Know about my experiences [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeep-nidigonda)
 
 
 ## 🌐 Socials:
